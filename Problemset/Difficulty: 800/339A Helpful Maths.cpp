@@ -1,3 +1,4 @@
+//339A Helpful Maths
 #include<iostream>
 #include<algorithm>
 #include<string>
