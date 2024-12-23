@@ -1,3 +1,4 @@
+//50A Domino piling
 #include<iostream>
 
 using namespace std;
