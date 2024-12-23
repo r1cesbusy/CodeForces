@@ -1,3 +1,4 @@
+//281A Word Capitalization
 #include<iostream>
 #include<string>
 
